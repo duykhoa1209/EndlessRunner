@@ -27,9 +27,6 @@
 ## 📥 Tải game
 [![Play on itch.io](https://img.shields.io/badge/Play%20on-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://duykhoa1209.itch.io/endless-runner)
 
-## 📸 Screenshots
-*(Thêm ảnh của bạn vào đây)*
-
 ## 👨‍💻 Tác giả
 **Duy Khoa** - Game Developer
 [GitHub](https://github.com/duykhoa1209) | [Itch.io](https://duykhoa1209.itch.io)
